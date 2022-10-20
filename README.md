@@ -1,4 +1,4 @@
-# FakeNews
+# FakeNews Detection:- 
 Detecting fake news
 
 What is Fake News?
