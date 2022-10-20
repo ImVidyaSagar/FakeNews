@@ -31,3 +31,6 @@ You’ll need to install Jupyter Lab to run your code. Get to your command promp
 C:\Users\DataFlair>jupyter lab
 
 You’ll see a new browser window open up; create a new console and use it to run your code. To run multiple lines of code at once, press Shift+Enter.
+
+Summary:-
+We took a political dataset, implemented a TfidfVectorizer, initialized a PassiveAggressiveClassifier, and fit our model. We ended up obtaining an accuracy of 92.82% in magnitude.
