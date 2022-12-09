@@ -95,7 +95,7 @@ Our finally selected and best performing classifier was ```Logistic Regression``
 Below is the Process Flow of the project:
 
 <p align="center">
-  <img width="600" height="750" src="/Users/vidyasagar/Desktop/Jupyter/Fake_News_Detection/images/ProcessFlow.PNG">
+  <img width="600" height="750" src="https://github.com/ImVidyaSagar/FakeNews/blob/main/Images/ProcessFlow.PNG">
 </p>
 
 ### Performance
@@ -104,13 +104,13 @@ Below is the learning curves for our candidate models.
 **Logistic Regression Classifier**
 
 <p align="center">
-  <img width="550" height="450" src="/Users/vidyasagar/Desktop/Jupyter/Fake_News_Detection/images/LR_LCurve.PNG">
+  <img width="550" height="450" src="https://github.com/ImVidyaSagar/FakeNews/blob/main/Images/LR_LCurve.PNG">
 </p>
 
 **Random Forest Classifier**
 
 <p align="center">
-  <img width="550" height="450" src="/Users/vidyasagar/Desktop/Jupyter/Fake_News_Detection/images/RF_LCurve.png">
+  <img width="550" height="450" src="https://github.com/ImVidyaSagar/FakeNews/blob/main/Images/RF_LCurve.png">
 </p>
 
 ### Next steps
